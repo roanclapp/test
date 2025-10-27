@@ -1,2 +1,0 @@
-server.js
-package.json
