@@ -1,13 +1,13 @@
 {
   "name": "onoff-proxy",
   "version": "1.0.0",
-  "description": "Proxy pour OnOff",
+  "description": "Proxy simple pour OnOff",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.19.0",
+    "express": "^4.18.2",
     "request": "^2.88.2"
   }
 }
